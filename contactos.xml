@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contactos>
+    <contacto id="0">
+        <Nombre>Nereida</Nombre>
+        <Telefono>04265148956</Telefono>
+        <Email>nereida@gmail.com</Email>
+    </contacto>
+    <contacto id="1">
+        <Nombre>Juan</Nombre>
+        <Telefono>0426456896</Telefono>
+        <Email>juan85@gmail.com</Email>
+    </contacto>
+</contactos>
